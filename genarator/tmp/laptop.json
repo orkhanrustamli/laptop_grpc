@@ -1,0 +1,62 @@
+{
+  "id": "09de0304-3cb1-4b59-9e26-5170d4b21228",
+  "brand": "Apple",
+  "name": "Macbook Pro",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i3-1005G1",
+    "number_cores": 6,
+    "number_threads": 10,
+    "min_ghz": 3.167858659111371,
+    "max_ghz": 4.742552098823477
+  },
+  "ram": {
+    "value": "63",
+    "unit": "GIGABYTE"
+  },
+  "gpu": [
+    {
+      "brand": "Nvidia",
+      "name": "GTX 1660-Ti",
+      "min_ghz": 1.3637603077318157,
+      "max_ghz": 1.6025269644330695,
+      "memory": {
+        "value": "3",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "822",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "4",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 15.109486,
+    "resolution": {
+      "width": 7642,
+      "height": 4299
+    },
+    "panel": "IPS",
+    "touchscreen": true
+  },
+  "keyboard": {
+    "layout": "AZERTY",
+    "backlit": false
+  },
+  "weight_kg": 1.0306942749068133,
+  "price_usd": 3045.7834514084943,
+  "release_year": 2020,
+  "updated_at": "2022-02-02T12:24:17.721823Z"
+}
